@@ -9,3 +9,7 @@
 ## ui of mobile
 ![MacBook Pro 14_ - 1](https://github.com/Vivekkumar-Tiwari/ui-ux-project-1/assets/158731018/3f2748bd-d773-482a-afd0-35ed23abcff5)
 
+## My first thumbnail for my video
+![#thumbnail](https://github.com/Vivekkumar-Tiwari/ui-ux-project-1/assets/158731018/b482c09c-067f-428a-9ca1-9a1786f1abc3)
+
+
