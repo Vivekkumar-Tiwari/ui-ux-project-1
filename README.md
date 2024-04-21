@@ -17,4 +17,5 @@
 ## My first thumbnail for my video
 ![#thumbnail](https://github.com/Vivekkumar-Tiwari/ui-ux-project-1/assets/158731018/b482c09c-067f-428a-9ca1-9a1786f1abc3)
 
-
+## Landing page.
+![day3](https://github.com/Vivekkumar-Tiwari/ui-ux-project-1/assets/158731018/3a175ac6-e4fb-48e8-b311-1674e63a022a)
