@@ -19,3 +19,6 @@
 
 ## Landing page.
 ![day3](https://github.com/Vivekkumar-Tiwari/ui-ux-project-1/assets/158731018/3a175ac6-e4fb-48e8-b311-1674e63a022a)
+
+## card design
+![#day5](https://github.com/Vivekkumar-Tiwari/ui-ux-project-1/assets/158731018/3ffbdcf0-1f2e-45cd-ad70-3f9d129858c4)
