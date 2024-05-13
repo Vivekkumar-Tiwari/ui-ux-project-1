@@ -1,5 +1,8 @@
 # ui-ux-project-1
 
+##banner-design
+![Tution_tem late2](https://github.com/Vivekkumar-Tiwari/ui-ux-project-1/assets/158731018/ee2d694e-b8f1-4c56-ae4d-b2ad11909c15)
+
 ## Logo Design by me.
 ![Frame 45](https://github.com/Vivekkumar-Tiwari/ui-ux-project-1/assets/158731018/3eab0791-1a63-4e0b-85f3-18b6d1bbd064)
 
