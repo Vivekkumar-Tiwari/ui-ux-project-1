@@ -1,6 +1,6 @@
 # ui-ux-project-1
 
-##banner-design
+##Banner-design
 ![Tution_tem late2](https://github.com/Vivekkumar-Tiwari/ui-ux-project-1/assets/158731018/ee2d694e-b8f1-4c56-ae4d-b2ad11909c15)
 
 ## Logo Design by me.
